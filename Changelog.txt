@@ -1,0 +1,4 @@
+21-07-17:
+First version:
+Python script slices the mesh and sorts prepares the set of line-segments as Polygons and PolyLines.
+Octave script computes intersections of PolyLines.
